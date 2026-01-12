@@ -1,6 +1,14 @@
 # C++ for Finance – Option Pricing Framework
 
-## 📌 Project Overview
+## Team
+
+**Developed by:** Mathis Fourreau & Natacha Gaussin & Margaux Girona & Cassandre Gerard & Jérémy Rama 
+**School:** ESILV - École Supérieure d'Ingénieurs Léonard de Vinci  
+**Program:** 4th Year Financial Engineering (2025/2026)  
+**Course:** C++ for Finance
+
+
+## Project Overview
 
 This project implements a **C++ option pricing framework** covering several fundamental models used in quantitative finance.  
 It was developed as part of the **C++ for Finance** course (2025) and focuses on **object-oriented design**, **numerical methods**, and **financial modeling**.
@@ -13,7 +21,7 @@ The framework supports:
 
 ---
 
-## 🧠 Main Features
+##  Main Features
 
 ### 1️⃣ Object-Oriented Option Design
 - Abstract base class `Option`
